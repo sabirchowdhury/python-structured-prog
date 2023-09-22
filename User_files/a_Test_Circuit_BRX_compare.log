@@ -1,0 +1,3 @@
+Command is:python Main.py ./User_files/a_Test_Circuit_BRX.net ./User_files/a_Test_Circuit_BRX.csv >./User_files/a_Test_Circuit_BRX_run.log 2>&1
+OS returns 0 from execution of command
+For files ./Model_files/a_Test_Circuit_BRX_model.csv and ./User_files/a_Test_Circuit_BRX.csv filecmp returns same=True

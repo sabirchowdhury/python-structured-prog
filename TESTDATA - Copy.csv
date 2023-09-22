@@ -1,0 +1,319 @@
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 2+0j, 1+0j, 2+0j, 1+0j, 0.5+0j, 0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 2+0j, 1+0j, 2+0j, 1+0j, 0.5+0j, 0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,R,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,R,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 2+0j, 1+0j, 2+0j, 1+0j, 0.5+0j, 0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 2+0j, 1+0j, 2+0j, 1+0j, 0.5+0j, 0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,G,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,G,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,C,1,1,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,C,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 1+6.283185307179586j, 1+0j, 1-6.283185307179586j, 1+0j, 0.024704523031857644-0.15522309613464763j, 0j, 1+0j, 0.024704523031857644-0.15522309613464763j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,C,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,C,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,L,1,1,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,L,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 1.0000000000000002-0.15915494309189537j, 1+0j, 1.0000000000000002+0.15915494309189537j, 1+0j, 0.9752954769681422+0.1552230961346476j, 0j, 1+0j, 0.9752954769681422+0.1552230961346476j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,0,L,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,0,1,1,L,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.25+0j, 2+0j, 1+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.25+0j, 2+0j, 1+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,R,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,R,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.25+0j, 2+0j, 1+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.25+0j, 2+0j, 1+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,G,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,G,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,C,1,1,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,C,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 0.9752954769681422+0.1552230961346476j, 0.9752954769681422+0.1552230961346476j, 0.9752954769681422+0.1552230961346476j, 0.9752954769681422-0.1552230961346476j, 0.9752954769681421+0j, 1-0.15915494309189535j, -0.15915494309189535j, 0.9752954769681422+0.1552230961346476j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,C,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,C,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,L,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 1+0j, 1+0j, 1+0j, 1+0j, 1+0j, 1+0j, 0j, 1+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,L,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+1+0j, 0.024704523031857644-0.15522309613464763j, 0.024704523031857644-0.15522309613464763j, 0.024704523031857644-0.15522309613464763j, 0.024704523031857644+0.15522309613464763j, 0.024704523031857648+0j, 1+6.283185307179586j, 6.283185307179586j, 0.024704523031857644-0.15522309613464763j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,0,L,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,0,1,1,L,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,R,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,R,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,G,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,G,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.3333333333333333+0j, 0.3333333333333333+0j, 0.6666666666666666+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 0.5+0j, 0.5+0j, 1+0j, 0.5+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,C,1,1,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,C,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.045999834175187625-0.14451274111111814j, 0.045999834175187625-0.14451274111111814j, 0.9540001658248124+0.14451274111111814j, 0.04599983417518763-0.14451274111111814j, 0.02299991708759381-0.14451274111111817j, 0.022999917087593816-8.673617379884035e-19j, 0.024704523031857644-0.15522309613464763j, 0.024704523031857644-0.15522309613464763j, 1+0j, 0.024704523031857644-0.15522309613464763j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,C,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,C,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.045999834175187625-0.14451274111111814j, 0.045999834175187625-0.14451274111111814j, 0.9540001658248124+0.14451274111111814j, 0.04599983417518763-0.14451274111111814j, 0.02299991708759381-0.14451274111111817j, 0.022999917087593816-8.673617379884035e-19j, 0.024704523031857644-0.15522309613464763j, 0.024704523031857644-0.15522309613464763j, 1+0j, 0.024704523031857644-0.15522309613464763j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,L,1,1,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,L,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.4968536375839372+0.03953835620733636j, 0.4968536375839372+0.03953835620733636j, 0.503146362416063-0.03953835620733637j, 0.49685363758393725+0.039538356207336374j, 0.2484268187919687+0.039538356207336374j, 0.24842681879196862-6.938893903907228e-18j, 0.9752954769681422+0.1552230961346476j, 0.9752954769681422+0.1552230961346476j, 1+0j, 0.9752954769681422+0.1552230961346476j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,0,L,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,0,1,1,1,L,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.49685363758393714+0.03953835620733636j, 0.49685363758393714+0.03953835620733636j, 0.5031463624160629-0.03953835620733635j, 0.4968536375839372+0.03953835620733636j, 0.24842681879196862+0.03953835620733635j, 0.24842681879196857+3.469446951953614e-18j, 0.9752954769681422+0.1552230961346476j, 0.9752954769681422+0.1552230961346476j, 1+0j, 0.9752954769681422+0.1552230961346476j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,R,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,R,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,R,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,G,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,G,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,G,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.6666666666666666+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.3333333333333333+0j, 0.2222222222222222+0j, 0.1111111111111111+0j, 2+0j, 2+0j, 0.5+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,C,1,1,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,C,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.5031463624160628-0.03953835620733635j, 0.4968536375839371+0.039538356207336346j, 0.4968536375839371+0.039538356207336346j, 0.4968536375839371+0.039538356207336346j, 0.24842681879196854-0.039538356207336346j, 0.24842681879196848+0j, 1-0.15915494309189535j, 1-0.15915494309189535j, 0.9752954769681422+0.1552230961346476j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,C,1,2,1,
+error,,,,,,,,,
+error,,,,,,,,,
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,C,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.5031463624160629-0.03953835620733636j, 0.4968536375839372+0.03953835620733635j, 0.4968536375839372+0.03953835620733635j, 0.4968536375839372+0.03953835620733635j, 0.24842681879196865-0.03953835620733636j, 0.2484268187919686+0j, 1-0.15915494309189535j, 1-0.15915494309189535j, 0.9752954769681422+0.1552230961346476j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,L,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.5+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.25+0j, 0.25+0j, 1+0j, 1+0j, 1+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,L,1,1,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.9540001658248125+0.14451274111111814j, 0.04599983417518763-0.14451274111111817j, 0.045999834175187625-0.14451274111111814j, 0.045999834175187625-0.14451274111111814j, 0.022999917087593816+0.14451274111111817j, 0.02299991708759382-8.673617379884035e-19j, 1+6.283185307179586j, 1+6.283185307179586j, 0.024704523031857644-0.15522309613464763j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,0,L,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.5+0j, 0.5+0j, 0.5+0j, 0.5+0j, 0.25+0j, 0.25+0j, 1+0j, 1+0j, 1+0j, 1+0j
+,,,,,,,,,
+n1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value,
+1,2,1,1,1,L,1,2,1,
+Vin, Vout, Iin, Iout, Pin, Pout, Zin, Zout, Av, Ai
+0.9540001658248124+0.14451274111111811j, 0.04599983417518762-0.14451274111111814j, 0.045999834175187625-0.14451274111111814j, 0.045999834175187625-0.14451274111111814j, 0.022999917087593812+0.14451274111111817j, 0.022999917087593812-8.673617379884035e-19j, 1+6.283185307179586j, 1+6.283185307179586j, 0.024704523031857644-0.15522309613464763j, 1+0j

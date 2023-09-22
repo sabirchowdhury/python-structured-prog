@@ -1,0 +1,43 @@
+<CIRCUIT>
+n1=4 n2=0 C=82 # Standard definition with comments
+n1=4 n2=5 L=25  k # Line with exponent
+
+        n2=0 n1=2 R=10000n # Space before
+n1=2            n2=3             G=150 # Large spaces in between
+C=0.0125m n1=4 n2=0 
+ n1=6                   n2=0 R=100
+n1=5 n2=6    G=2000m
+n1=3 n2=4 L=3300000 u
+
+n1=5 C=3.0e-9 n2=0  #Comments After should still work
+R=47    k n1=1 n2=2
+
+#These shouldn't be added:
+# n1=5 n2=6    G=2m
+#n1=3 n2=4 L=330000u
+
+</CIRCUIT>
+
+<TERMS>
+VT=0.005k # Exponents in the terms block
+RS=50000m
+RL=75
+Fstart=10.0
+Fend=40
+Nfreqs=4
+# VT=5 RS=50 RL=75 LFstart=10.0 LFend=10M Nfreqs=7 
+</TERMS>
+
+# define the outputs between <OUTPUT> and </OUTPUT> delimiters
+<OUTPUT>
+Vin V
+Vout V
+Iin A
+Iout A
+Pin W
+Zout Ohms
+Pout W
+Zin Ohms
+Av 
+Ai
+</OUTPUT>
