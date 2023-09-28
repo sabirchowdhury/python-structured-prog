@@ -1,0 +1,85 @@
+ '''    
+    fake=open("TESTDATA.csv","w")#DELETE#
+
+
+
+
+    allTerms=["Vin", "Vout", "Iin", "Iout", "Pin", "Pout", "Zin", "Zout", "Av", "Ai"]
+    Rs=[0,1]
+    Rl=1
+    n1=1
+    n2=[0,2]
+    Frequ=[0,1]
+    VName=["R","G","C","L"]
+    VVal=1
+    SourceType=[1,2]
+    Source=1
+
+    for Rsx in Rs:
+        for n2x in n2:
+            for VNamex in VName:
+                for SourceTypex in SourceType:
+                    for Frequx in Frequ:
+                        ClassTest=circuitBlock(n1,n2x,VNamex,VVal)
+                        fake.writelines("\n\nn1,n2,Rs,Rl,Frequency,Component Type,Component Value,Vs:1-Is:2,Source Value\n")
+                        fake.writelines(str([n1,n2x,Rsx,Rl,Frequx,VNamex,VVal,SourceTypex,Source]).replace("(","").replace(")","").replace("[","").replace("]","").replace(" ","").replace("'","")+"\n")
+                        try:
+                            ClassTest.applyFreq(Frequx)
+                            DictOutput=ClassTest.calculateAll(Rsx, Rl, Source, SourceTypex)
+                            #print([DictOutput[allTermsx] for allTermsx in allTerms])
+
+                            fake.writelines(str(allTerms).replace("(","").replace(")","").replace("[","").replace("]","").replace("'","")+"\n")
+                            fake.writelines(str([round(DictOutput[allTermsx].real,5)+round(DictOutput[allTermsx].imag,5)*1j for allTermsx in allTerms]).replace("(","").replace(")","").replace("[","").replace("]",""))
+                            
+                        except:
+
+                            fake.writelines("error\nerror")
+    fake.close()
+
+    '''
+    '''
+
+    d=[]
+    firstNode=circuitBlock(1,2,"R",47)
+    d.append(circuitBlock(2,0,"R",100))
+    d.append(circuitBlock(2, 3, "R",150))
+    d.append(circuitBlock(3, 4, "R",330))
+    d.append(circuitBlock(4, 0, "G",0.0125))
+    d.append(circuitBlock(4, 0, "R",82))
+    d.append(circuitBlock(4, 5, "R",25))
+    d.append(circuitBlock(5, 0, "C",3.0e-9))
+    d.append(circuitBlock(5, 6, "G",0.02))
+    d.append(circuitBlock(6, 0, "R",100))
+
+    dc=9/9e-07
+    #dc=10
+    #dc=4.44444444444
+    firstNode.applyFreq(dc)
+    for c in d:
+        c.applyFreq(dc)
+        firstNode.multM(c)
+    print(firstNode.matrix)
+    Rs=50
+    Rl=75
+    SourceType=1#Voltage Source
+    Source=5
+    #print((0.04972677511982937-3.505383390133769e-07j)*(0.0006630236682649837+4.67384452017619e-09j))
+    v1,i1,p1=firstNode.VAPIn(Rs,Rl, Source, SourceType)
+    #print((v1,i1,p1))
+    ld=firstNode.calculateAll(Rs, Rl, Source, SourceType)
+    for jk in ld:
+        print(jk," : ","{:.3e}".format(ld[jk])) 
+    print(ld["Pout"])
+
+
+
+    print(np.isclose(2.5849E-26,-2.5849E-15))
+    '''
+    
+    """
+    for i in range(0,100):
+        dsda=3#float(input("Real: "))
+        fsda=4#float(input("imag: "))
+        lyt=input("Unit: ")
+        print(ValueConvert(complex(dsda,fsda),lyt))
+    """
